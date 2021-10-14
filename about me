@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT ME</title>
+<link  href="wamalwa.css"rel="stylesheet"
+</head>
+<body>
+<nav>
+<a href='about me.html'>about me</a>
+<a href ='wamalwa.html'contact me</a>
+  <a href ='contact .html'@2456789000></a>
+</nav>
+<p>
+  <li><I am wamalwa Recho</li>
+    <li>am an african</li>
+    <li>am 15 yaears old</li>
+    <li>I live in Bungoma</li>
+  </p>
+</body>
+</html>

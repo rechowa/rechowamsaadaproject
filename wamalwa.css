@@ -1,0 +1,35 @@
+h1{
+font-family: cursive;
+font-size:18px;
+color:purple;
+text-align: center;
+font-style: italic;
+font-weight: 400;
+}
+body{
+  background-color: green;
+}
+h2{
+  font-family: cursive;
+  font-size: 180px;
+  color:pink;
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+}
+h3{
+  font-family: cursive;
+  font-size: 40px;
+  color:maroon;
+  text-align: center;
+  font-style: italic;
+  font-weight:100;
+}
+h4{
+  font-family: cursive;
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  font-weight: 100;
+}
